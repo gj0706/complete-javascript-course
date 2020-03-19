@@ -1,1 +1,1 @@
- https://gj0706.github.io/complete-javascript-course/DOM-pig-game/starter/index.html
+ https://gj0706.github.io/complete-javascript-course/4-DOM-pig-game/starter/index.html
